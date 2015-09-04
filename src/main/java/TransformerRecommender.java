@@ -26,7 +26,7 @@ import org.apache.mahout.cf.taste.recommender.RecommendedItem;
  » извлекает рекомендации содержащиес€ в данных ratings.csv
 
  */
-public class TransformerRec {
+public class TransformerRecommender {
 
     static final String inputFile = "d:\\develop\\ml-1m\\ratings.dat";
     static final String outputFile = "d:\\develop\\ml-1m\\ratings.csv";

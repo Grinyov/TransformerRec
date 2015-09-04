@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TransformerRec.iml" filepath="$PROJECT_DIR$/TransformerRec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransformerRecommender.iml" filepath="$PROJECT_DIR$/TransformerRecommender.iml" />
     </modules>
   </component>
 </project>
